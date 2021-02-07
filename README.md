@@ -6,3 +6,5 @@
 
 抓取贴吧帖子图片
 [gettiebaimg.py](gettiebaimg.py)
+
+哔哩哔哩漫画网页版爬虫[bilimangascrapy.py](bilimangascrapy.py)
