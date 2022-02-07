@@ -8,3 +8,5 @@
 [gettiebaimg.py](gettiebaimg.py)
 
 哔哩哔哩漫画网页版爬虫[bilimangascrapy.py](bilimangascrapy.py)
+
+e-hentai.org爬虫下载器[ehentaidownloader.py](ehentaidownloader.py)
